@@ -1,0 +1,14 @@
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'src/widgets/my_textfield.dart';
+export '../designKit/src/constants/constants.dart';
+export '../designKit/src/uiHelpers/size_config.dart';
+export '../designKit/src/widgets/my_container.dart';
+export '../designKit/src/widgets/my_bottom.dart';
+export '../designKit/src/widgets/my_input.dart';
+export '../designKit/src/widgets/my_button.dart';
+export '../designKit/src/widgets/alert_box.dart';
+export '../translations/local_keys.g.dart';
+export 'package:easy_localization/src/public_ext.dart';
+export '../designKit/src/widgets/my_bottom_row.dart';
+export 'package:get/get.dart' hide Trans;
+export '../controllers/sign_up_controller.dart';
